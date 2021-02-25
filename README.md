@@ -2,7 +2,7 @@
 A basic Secure Virtual Machine hypervisor
 
 This is a project in development that I have been working on since December. It's a basic hypervisor for the AMD platform, which demonstrates basic concepts such as virtualizing all cores, intercepting vmmcalls, and manipulating nested page tables. I decided to research hypervisors beause I believe they are a powerful tool for dynamically analyzing software. 
-Don't expect this to work perfectly, It is just a simple PoC that is not completely finished yet. 
+Don't expect this to work perfectly or have clean code, it is just a simple PoC that is not completely finished yet, and it was intended for myself to use.
 
 ## To Do list:
 - fix CR3 switching
